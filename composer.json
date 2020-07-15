@@ -1,0 +1,19 @@
+{
+    "name": "apendharkar/composer-assignment-anuja",
+    "description": "Company assignment",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "require-dev": {
+        "fooman/tcpdf": "1.0"
+    },
+    "license": "'PHP'",
+    "authors": [
+        {
+            "name": "anujadec",
+            "email": "anuja.dec@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
