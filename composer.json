@@ -8,7 +8,7 @@
     "require-dev": {
         "fooman/tcpdf": "1.0"
     },
-    "license": "'PHP'",
+    "license": "MIT",
     "authors": [
         {
             "name": "anujadec",
