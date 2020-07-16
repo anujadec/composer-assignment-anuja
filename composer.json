@@ -15,5 +15,10 @@
             "email": "anuja.dec@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+	"autoload": {
+        "psr-0": {
+            "composer-assignment-anuja": "src"
+        }
+    }
 }
